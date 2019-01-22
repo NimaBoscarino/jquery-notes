@@ -2,7 +2,7 @@
 
 Goal: A friendly but fast intro to jQuery
 
-Repo: 
+Repo: https://github.com/NimaBoscarino/jquery-notes
 
 Topics:
 
